@@ -1,1 +1,3 @@
 GitHub es una plataforma en la nube que funciona como el mayor centro de alojamiento de repositorios Git y colaboración para desarrolladores, permitiendo almacenar, gestionar y compartir código fuente, además de facilitar el trabajo en equipo mediante control de versiones. A menudo llamada "la red social de los programadores", es esencial para proyectos de código abierto y privados.
+
+Esta es una nueva línea agregada al archivo.
