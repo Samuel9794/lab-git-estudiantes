@@ -1,0 +1,1 @@
+Bash (Bourne Again Shell) es un intérprete de comandos y lenguaje de programación de scripts, estándar en sistemas Unix, Linux y macOS. Actúa como interfaz entre el usuario y el sistema operativo, permitiendo automatizar tareas, gestionar archivos y ejecutar aplicaciones mediante la terminal. Es potente, versátil y esencial para la administración de sistemas y DevOps. 
